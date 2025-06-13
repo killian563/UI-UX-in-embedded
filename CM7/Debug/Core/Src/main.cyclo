@@ -1,0 +1,10 @@
+../Core/Src/main.c:60:5:main	7
+../Core/Src/main.c:122:6:SystemClock_Config	2
+../Core/Src/main.c:157:6:ADC_Init	1
+../Core/Src/main.c:192:6:TIM_Init	1
+../Core/Src/main.c:208:6:ApplyWindow	2
+../Core/Src/main.c:215:6:DrawSpectrum	6
+../Core/Src/main.c:233:6:DrawButton	2
+../Core/Src/main.c:239:6:CheckTouch	32
+../Core/Src/main.c:296:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/main.c:303:6:Error_Handler	1

@@ -1,0 +1,11 @@
+../Drivers/Components/is42s32800g/is42s32800g.c:64:9:IS42S32800G_Init	6
+../Drivers/Components/is42s32800g/is42s32800g.c:102:9:IS42S32800G_ClockEnable	2
+../Drivers/Components/is42s32800g/is42s32800g.c:126:9:IS42S32800G_Precharge	2
+../Drivers/Components/is42s32800g/is42s32800g.c:150:9:IS42S32800G_ModeRegConfig	2
+../Drivers/Components/is42s32800g/is42s32800g.c:183:9:IS42S32800G_TimingConfig	2
+../Drivers/Components/is42s32800g/is42s32800g.c:204:9:IS42S32800G_RefreshMode	2
+../Drivers/Components/is42s32800g/is42s32800g.c:228:9:IS42S32800G_RefreshRate	2
+../Drivers/Components/is42s32800g/is42s32800g.c:247:9:IS42S32800G_EnterPowerMode	2
+../Drivers/Components/is42s32800g/is42s32800g.c:271:9:IS42S32800G_ExitPowerMode	2
+../Drivers/Components/is42s32800g/is42s32800g.c:295:9:IS42S32800G_Sendcmd	2
+../Drivers/Components/is42s32800g/is42s32800g.c:320:16:IS42S32800G_Delay	2

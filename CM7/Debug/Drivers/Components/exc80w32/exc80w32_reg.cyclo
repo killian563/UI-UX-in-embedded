@@ -1,0 +1,2 @@
+../Drivers/Components/exc80w32/exc80w32_reg.c:47:9:exc80w32_read_reg	1
+../Drivers/Components/exc80w32/exc80w32_reg.c:60:9:exc80w32_write_reg	1
